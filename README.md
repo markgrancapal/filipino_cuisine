@@ -1,4 +1,4 @@
-My entry to the flutter create challenge by google. https://flutter.dev/create
+My entry to the Flutter Create challenge by google. https://flutter.dev/create
 
 # Filipino Cuisine
 

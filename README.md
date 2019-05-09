@@ -4,6 +4,8 @@ My entry to the Flutter Create challenge by google. https://flutter.dev/create
 
 A Flutter app that shows list of Filipino Food, it shows the recipe and instructions.
 
+![App Demo](Filipino_Cuisine.gif)
+
 **Note**: This app needs internet connection for HTTP request.
 
 **Asset License**: All images used on this app are under the "CC0 - Creative Commons" license

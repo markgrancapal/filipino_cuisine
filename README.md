@@ -1,5 +1,7 @@
 My entry to the Flutter Create challenge by google. https://flutter.dev/create
 
+* [Awarded Honorable Mention](https://medium.com/flutter/the-flutter-create-winners-are-40980f2d20b3)
+
 # Filipino Cuisine
 
 A Flutter app that shows list of Filipino Food, it shows the recipe and instructions.

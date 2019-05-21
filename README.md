@@ -18,7 +18,7 @@ A Flutter app that shows list of Filipino Food, it shows the recipe and instruct
 
 ## Developed By
 
-John Mark Grancapal
+* [John Mark Grancapal](https://www.linkedin.com/in/jmarkgrancapal/)
 
 ## License
 

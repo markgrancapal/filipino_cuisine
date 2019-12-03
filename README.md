@@ -18,13 +18,9 @@ A Flutter app that shows list of Filipino Food, it shows the recipe and instruct
 * [flutter_swiper](https://pub.dartlang.org/packages/flutter_swiper)
 * [flutter_launcher_icons](https://pub.dartlang.org/packages/flutter_launcher_icons)
 
-## Developed By
-
-[John Mark Grancapal](https://www.linkedin.com/in/jmarkgrancapal/)
-
 ## License
 
-    Copyright 2019 John Mark Grancapal
+    Copyright 2019 Mark Grancapal
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

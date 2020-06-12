@@ -1,6 +1,7 @@
 My entry to the Flutter Create challenge by google. https://flutter.dev/create
 
 # [Awarded Honorable Mention](https://medium.com/flutter/the-flutter-create-winners-are-40980f2d20b3)
+# [Flutter Samples](https://flutter.github.io/samples/filipino_cuisine.html)
 
 # Filipino Cuisine
 
@@ -18,9 +19,13 @@ A Flutter app that shows list of Filipino Food, it shows the recipe and instruct
 * [flutter_swiper](https://pub.dartlang.org/packages/flutter_swiper)
 * [flutter_launcher_icons](https://pub.dartlang.org/packages/flutter_launcher_icons)
 
+## Developed By
+
+[John Mark Grancapal](https://www.linkedin.com/in/jmarkgrancapal/)
+
 ## License
 
-    Copyright 2019 Mark Grancapal
+    Copyright 2019 John Mark Grancapal
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
